@@ -43,30 +43,31 @@ The project combines **LLMs** and **advanced TTS systems** to deliver realistic,
    ```bash
    http://127.0.0.1:5000/
 
+---
 
-📊 Results
+## 📊 Results
 
--Conversion latency: <30s for 10+ page PDFs.
+- Conversion latency: <30s for 10+ page PDFs.
 
--WER (Word Error Rate): Reduced compared to standard TTS systems.
+- WER (Word Error Rate): Reduced compared to standard TTS systems.
 
--MOS (Mean Opinion Score): Achieved higher ratings for clarity and naturalness.
+- MOS (Mean Opinion Score): Achieved higher ratings for clarity and naturalness.
 
+---
+## 🔮 Future Improvements
 
-🔮 Future Improvements
+- Support for multi-language PDF-to-podcast conversion.
 
--Support for multi-language PDF-to-podcast conversion.
+- Deployment on AWS SageMaker for scalability and production use.
 
--Deployment on AWS SageMaker for scalability and production use.
+- User dashboard for managing and storing past conversions.
 
--User dashboard for managing and storing past conversions.
+---
+## 🙌 Acknowledgements
 
-🙌 Acknowledgements
+- LangChain for dialogue management.
 
--LangChain for dialogue management.
-
--Groq
+- Groq
  LLMs for fast inference.
 
--ParlerTTS
- for text-to-speech synthesis.
+- ParlerTTS for text-to-speech synthesis.
